@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/05_22_26/05_22_26.iml" filepath="$PROJECT_DIR$/05_22_26/05_22_26.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_22_26-2/05_22_26-2.iml" filepath="$PROJECT_DIR$/05_22_26-2/05_22_26-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5_20_26/5_20_26.iml" filepath="$PROJECT_DIR$/5_20_26/5_20_26.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5_20_Tarea/5_20_Tarea.iml" filepath="$PROJECT_DIR$/5_20_Tarea/5_20_Tarea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AreaYPerimetro/AreaYPerimetro.iml" filepath="$PROJECT_DIR$/AreaYPerimetro/AreaYPerimetro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad_1_Alumno/5_20_26.iml" filepath="$PROJECT_DIR$/Actividad_1_Alumno/5_20_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad_2_Empleado/5_20_Tarea.iml" filepath="$PROJECT_DIR$/Actividad_2_Empleado/5_20_Tarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad_3_Figuras_Geometricas/AreaYPerimetro.iml" filepath="$PROJECT_DIR$/Actividad_3_Figuras_Geometricas/AreaYPerimetro.iml" />
       <module fileurl="file://$PROJECT_DIR$/VehiculosTrabajo/VehiculosTrabajo.iml" filepath="$PROJECT_DIR$/VehiculosTrabajo/VehiculosTrabajo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/progra.iml" filepath="$PROJECT_DIR$/.idea/progra.iml" />
     </modules>
